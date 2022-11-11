@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 iam in master branch
-=======
 this is trd branch
->>>>>>> trd
+
